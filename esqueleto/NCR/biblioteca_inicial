@@ -1,0 +1,6 @@
+#Cargamos las librerias
+
+import pandas as pd
+
+#Guardamos el esqueleto
+biblioteca = pd.read_csv("esqueleto/data/canciones.csv")
