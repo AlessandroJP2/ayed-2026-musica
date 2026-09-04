@@ -3,13 +3,13 @@
 Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src/` ni de `docs/`.
 
 ## Integrantes
-
+| ---- | ---- | ---- |
 | Nombre | Mail | GitHub |
-| ---- | ---- | ---- |
+
 | María Celeste Contardi | mariacelestecontardid@gmail.com | mariacelestecontardi |
-| ---- | ---- | ---- |
+
 | Alessandro Javier Pinto | Alessandro0152@hotmail.com | El de Ale es AlessandroJP2 |
-| ---- | ---- | ---- |
+
 | Zarate Sosa Lucia | sosaalucia15@gmail.com | sosalucia |
 | ---- | ---- | ---- |
 
